@@ -4,6 +4,7 @@
 
 ![1](https://github.com/SumnaImran-20/Breast_Cancer_Prediction/assets/88527179/fb658236-8532-46dd-b769-1e24fed37264)
 ![2](https://github.com/SumnaImran-20/Breast_Cancer_Prediction/assets/88527179/6f98394c-8564-4363-beaa-f59c5539668f)
+![3](https://github.com/SumnaImran-20/Breast_Cancer_Prediction/assets/88527179/cc38c8a6-e088-43da-9311-bbfd18ccc352)
 ![4](https://github.com/SumnaImran-20/Breast_Cancer_Prediction/assets/88527179/ad70bc33-a63f-4789-b322-8fdaa2b47f1a)
 
 ♦ This is a **Breast Cancer Prediction project**. This is a classification-based project, that classifies whether a given instance, such as a patient's medical data, indicates the presence of breast cancer or not.
